@@ -23,4 +23,4 @@ for line in r.iter_lines(decode_unicode=True):
 
 
 if __name__ == '__main__':
-    authentication()
+   # authentication()
